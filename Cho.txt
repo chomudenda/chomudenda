@@ -1,0 +1,30 @@
+<DECOTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Welcome to Lubu Private Game Reserves</>
+</head>
+<body>
+<h1>Welcome to Lubu Private Game Reserves</h1>
+<a href="about.html">About us</a>
+<a href="animals.html">Animals</a>
+<a href="contacts.html">Contacts</a>
+<a href="other links.html">Other Links</a>
+ <p> The Game reserve was <mark> established</mark> on the 24th january,2018. It is home to <strong>Black Lechwe and waterbucks</strong> only. There are so of the <u>animals</u>.The following are the animals:-
+ <h3><strong>Black Lechwe</strong>
+ Medium-sized antelope, the black lechwe(LEECH-wee)grows to about a meter (3.3ft)in height,weighing 60 to 128kg.
+ <h3><strong> waterbuck</strong>
+ Large<u> robust animal</u> with long, <mark> shaggy hair</mark> and a brown-gray coat that emits an oily secretion from its sweat glands, which acts as a water repellent.</p>
+
+<h2><strong>subscribe here</strong>
+<br> </br>
+<form action="form.php" method="post"
+Surname:</br>
+<input type="text"name="Surname"/> </br>
+Given name:</br>
+<br> </br>
+<footer>
+<p>$ copy;2019 Lubu Private Game Reserves</p>
+</footer>
+</body>
+<html>
